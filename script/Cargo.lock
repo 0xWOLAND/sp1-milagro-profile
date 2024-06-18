@@ -4629,6 +4629,7 @@ name = "sp1-milagro-program"
 version = "0.1.0"
 dependencies = [
  "milagro_bls",
+ "rand",
  "sp1-helper",
  "sp1-sdk",
 ]
